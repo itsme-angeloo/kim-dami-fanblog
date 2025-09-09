@@ -39,6 +39,7 @@ damda-blog/
 3. **Open index HTML**
 
 ## 📸 Preview
+![Website Preview](images/preview-3.jpg)
 
 ## 📝 License
 
