@@ -11,11 +11,11 @@ This project is built using **HTML, CSS, and JavaScript**, focusing on clean des
 ---
 
 ## 📂 Project Structure
-damda-blog/
-│── index.html # Main page
-│── style.css # Stylesheet
-│── script.js # JavaScript file
-│── assets/ # Images & other media
+damda-blog/ <br>
+│── index.html # Main page<br>
+│── style.css # Stylesheet<br>
+│── script.js # JavaScript file<br>
+│── assets/ # Images & other media<br>
 
 ---
 
@@ -39,7 +39,7 @@ damda-blog/
 3. **Open index HTML**
 
 ## 📸 Preview
-![Website Preview](images/preview-3.jpg)
+![Website Preview](https://github.com/itsme-angeloo/kim-dami-fanblog/blob/main/damda-blog/images/preview-3.png?raw=true)
 
 ## 📝 License
 
